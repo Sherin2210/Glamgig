@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="primaryBlue">#2A78F1</color>
+    <color name="colorPrimary">#3168BC</color>
+    <color name="colorPrimaryDark">#3168BC</color>
+    <color name="theme_main_color_blue">#3C264D</color>
+    <color name="theme_secondary_color_blue">#3A3367</color>
+    <color name="theme_tertiary_color_blue">#000000</color>
+    <color name="transparent">#00000000</color>
+    <color name="backgroudColor">#ECF2F2</color>
+
+
+    <color name="colorGray">#CFCFCF</color>
+    <color name="colorGray1">#E1DFDF</color>
+    <color name="green">#4CAF50</color>
+    <color name="colorPrimaryclick">#424242</color>
+
+    <color name="red1212">#D0D6F6</color>
+    <color name="blue111">#6CC1E5</color>
+    <color name="blue222">#E8F1F7FA</color>
+</resources>
