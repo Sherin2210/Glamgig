@@ -1,0 +1,5 @@
+<!-- res/drawable/round_card_bg.xml -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="@color/colorPrimaryDark" /> <!-- Change the color as needed -->
+    <corners android:radius="100dp" /> <!-- Adjust the radius to control the roundness -->
+</shape>

@@ -1,5 +1,4 @@
 <resources>
-    <resources>
         <string name="app_name">GlamGig</string>
         <string name="api_key">*********************************</string>
         <string name="next">Next</string>
@@ -32,7 +31,8 @@
         <string name="menu6">My Wallet</string>
         <string name="label_3">Wallet</string>
         <string name="string_label_4">Notification</string>
-        <string name="label_5">Setting</string>
+        <string name="string_label_5">Cart</string>
+        <string name="label_5">Profile</string>
         <string name="income">Income</string>
         <string name="expense">Expense</string>
         <string name="transections">Transaction</string>
@@ -125,6 +125,4 @@
         <string name="hi1"><![CDATA[Certified & Trusted Pros!]]></string>
         <string name="langu">Language</string>
 
-
-    </resources>
 </resources>
